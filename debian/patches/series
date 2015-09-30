@@ -18,3 +18,4 @@
 0018-core-do-not-assert-when-a-device-is-enslaved-externa.patch
 0019-Don-t-make-NetworkManager-D-Bus-activatable.patch
 0020-Don-t-block-network.target-on-NetworkManager-wait-on.patch
+0021-cli-fix-crash-in-nmcli-device-wifi-with-multiple-wif.patch
