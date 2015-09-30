@@ -1,3 +1,10 @@
+network-manager (0.9.10.0-7.1) trusty; urgency=medium
+
+  * Non-maintainer upload.
+  * fix nmcli crash with multiple wifi devices
+
+ -- Jason Abele <jason@nextthing.co>  Wed, 30 Sep 2015 16:35:55 -0700
+
 network-manager (0.9.10.0-7) unstable; urgency=medium
 
   * Don't make NetworkManager D-Bus activatable. If the daemon has been
